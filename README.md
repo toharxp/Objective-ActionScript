@@ -4,7 +4,7 @@
 <br>
 <img src="logo.jpg">
 <br>
-##### ⚠️Warning:This project will not be big anytime time soon since it's a project made with the porpuse of learning but still usable
+#### ⚠️Warning:This project will not be big anytime time soon since it's a project made with the porpuse of learning but still usable
 
 ### code exmaple:
 
