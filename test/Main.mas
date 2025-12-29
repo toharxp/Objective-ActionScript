@@ -1,0 +1,12 @@
+@startPackage
+
+import flash.display.Sprite;
+
+class Main extends Sprite{
+    public function Main(){
+        
+    }
+}
+
+
+@endPackage
