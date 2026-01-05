@@ -8,6 +8,9 @@
 
 ### code exmaple:
 
+#### Explaination
+this is a normal AS3 class using ObjAS's @startPackage and @endPackage 
+@startPackage works like normal package in AS3 
 ```
 @startPackage
 
